@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:6cac22794be3b045243da5538f07dc66:731dcdba08f9efebe76281f307aa87d7:bc15625461bc8179598449b4cf803ed1$ -->
+<TextureAtlas imagePath="ncshouse.png" width="3934" height="3935">
+    <SubTexture name="ncshouse-idle00000" x="1" y="3470" rotated="true" width="469" height="464" frameX="-246" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00001" x="499" y="1020" width="491" height="495" frameX="-232" frameY="-23" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00002" x="511" y="1" width="506" height="509" frameX="-225" frameY="-16" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00003" x="1" y="1518" width="492" height="493" frameX="-232" frameY="-25" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00004" x="1" y="2503" rotated="true" width="480" height="483" frameX="-237" frameY="-33" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00005" x="3408" y="2903" rotated="true" width="473" height="475" frameX="-241" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00006" x="2993" y="1" rotated="true" width="466" height="467" frameX="-246" frameY="-40" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00007" x="3461" y="937" width="462" height="462" frameX="-249" frameY="-39" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00008" x="3465" y="1401" width="462" height="462" frameX="-249" frameY="-39" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00009" x="472" y="3470" width="464" height="463" frameX="-248" frameY="-39" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00010" x="2993" y="470" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00011" x="2993" y="938" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00012" x="3461" y="1" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00013" x="3461" y="469" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00014" x="1948" y="2975" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00015" x="1" y="1020" width="496" height="496" frameX="-232" frameY="-22" frameWidth="960" frameHeight="540"/>
+
+    <SubTexture name="ncshouse-idle00016" x="1" y="1" width="508" height="507" frameX="-226" frameY="-16" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00017" x="1018" y="1017" width="498" height="497" frameX="-231" frameY="-21" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00018" x="1523" y="501" width="494" height="492" frameX="-233" frameY="-24" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00019" x="1" y="2013" rotated="true" width="486" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00020" x="984" y="1517" rotated="true" width="486" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00021" x="984" y="2007" rotated="true" width="486" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00022" x="495" y="1518" rotated="true" width="487" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00023" x="495" y="2008" rotated="true" width="487" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00024" x="2012" y="2002" rotated="true" width="485" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00025" x="1957" y="2490" width="484" height="483" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00026" x="2507" y="1" width="484" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00027" x="2443" y="2490" rotated="true" width="482" height="481" frameX="-240" frameY="-29" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00028" x="2927" y="2425" width="478" height="478" frameX="-241" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00029" x="1464" y="2981" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00030" x="2019" y="1" width="486" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00031" x="2019" y="489" width="486" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+
+    <SubTexture name="ncshouse-idle00032" x="962" y="2983" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00033" x="1" y="2988" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00034" x="1464" y="2497" width="482" height="482" frameX="-239" frameY="-29" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00035" x="2507" y="487" width="484" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00036" x="2507" y="973" width="484" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00037" x="1472" y="2009" width="483" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00038" x="1019" y="1" width="498" height="498" frameX="-231" frameY="-21" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00039" x="510" y="512" width="506" height="506" frameX="-227" frameY="-17" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00040" x="1519" y="1" width="498" height="498" frameX="-231" frameY="-21" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00041" x="2019" y="977" width="486" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00042" x="2926" y="2973" rotated="true" width="480" height="478" frameX="-241" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00043" x="2912" y="3453" rotated="true" width="477" height="476" frameX="-242" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00044" x="2983" y="1946" rotated="true" width="478" height="475" frameX="-242" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00045" x="3407" y="2423" width="474" height="478" frameX="-242" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00046" x="1946" y="3457" rotated="true" width="480" height="474" frameX="-242" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00047" x="3391" y="3453" rotated="true" width="477" height="473" frameX="-243" frameY="-32" frameWidth="960" frameHeight="540"/>
+
+    <SubTexture name="ncshouse-idle00048" x="3463" y="1932" width="470" height="477" frameX="-245" frameY="-32" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00049" x="1444" y="3463" rotated="true" width="479" height="471" frameX="-245" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00050" x="961" y="3465" rotated="true" width="478" height="469" frameX="-246" frameY="-32" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00051" x="2985" y="1459" rotated="true" width="478" height="471" frameX="-244" frameY="-32" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00052" x="1518" y="1513" width="492" height="494" frameX="-234" frameY="-23" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00053" x="1" y="510" width="507" height="508" frameX="-226" frameY="-16" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00054" x="1018" y="512" width="503" height="503" frameX="-228" frameY="-19" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00055" x="1518" y="1017" rotated="true" width="493" height="494" frameX="-232" frameY="-25" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00056" x="2012" y="1513" rotated="true" width="484" height="487" frameX="-235" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00057" x="2498" y="1465" width="485" height="479" frameX="-236" frameY="-35" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00058" x="483" y="2988" rotated="true" width="476" height="480" frameX="-238" frameY="-36" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00059" x="2430" y="3451" width="480" height="475" frameX="-239" frameY="-36" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00060" x="2443" y="2973" width="481" height="476" frameX="-239" frameY="-35" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00061" x="483" y="2503" rotated="true" width="477" height="483" frameX="-238" frameY="-35" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00062" x="2499" y="1946" width="482" height="477" frameX="-239" frameY="-34" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00063" x="984" y="2497" rotated="true" width="478" height="484" frameX="-238" frameY="-34" frameWidth="960" frameHeight="540"/>
+
+
+    <SubTexture name="ncshouse-left00001" x="1" y="1020" width="496" height="496" frameX="-232" frameY="-22" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00002" x="1948" y="2975" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00003" x="3461" y="469" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00004" x="3461" y="1" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00005" x="2993" y="938" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00006" x="2993" y="470" width="466" height="466" frameX="-247" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00007" x="472" y="3470" width="464" height="463" frameX="-248" frameY="-39" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00008" x="3465" y="1401" width="462" height="462" frameX="-249" frameY="-39" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00009" x="3461" y="937" width="462" height="462" frameX="-249" frameY="-39" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00010" x="2993" y="1" rotated="true" width="466" height="467" frameX="-246" frameY="-40" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00011" x="3408" y="2903" rotated="true" width="473" height="475" frameX="-241" frameY="-37" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00012" x="1" y="2503" rotated="true" width="480" height="483" frameX="-237" frameY="-33" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00013" x="1" y="1518" width="492" height="493" frameX="-232" frameY="-25" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00014" x="511" y="1" width="506" height="509" frameX="-225" frameY="-16" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00015" x="499" y="1020" width="491" height="495" frameX="-232" frameY="-23" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-left00016" x="1" y="3470" rotated="true" width="469" height="464" frameX="-246" frameY="-37" frameWidth="960" frameHeight="540"/>
+
+    <SubTexture name="ncshouse-down00000" x="2019" y="489" width="486" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00001" x="2019" y="1" width="486" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00002" x="1464" y="2981" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00003" x="2927" y="2425" width="478" height="478" frameX="-241" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00004" x="2443" y="2490" rotated="true" width="482" height="481" frameX="-240" frameY="-29" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00005" x="2507" y="1" width="484" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00006" x="1957" y="2490" width="484" height="483" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00007" x="2012" y="2002" rotated="true" width="485" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00008" x="495" y="2008" rotated="true" width="487" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00009" x="495" y="1518" rotated="true" width="487" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00010" x="984" y="2007" rotated="true" width="486" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00011" x="984" y="1517" rotated="true" width="486" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00012" x="1" y="2013" rotated="true" width="486" height="488" frameX="-236" frameY="-26" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00013" x="1523" y="501" width="494" height="492" frameX="-233" frameY="-24" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00014" x="1018" y="1017" width="498" height="497" frameX="-231" frameY="-21" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-down00015" x="1" y="1" width="508" height="507" frameX="-226" frameY="-16" frameWidth="960" frameHeight="540"/>
+
+
+    <SubTexture name="ncshouse-up00000" x="3391" y="3453" rotated="true" width="477" height="473" frameX="-243" frameY="-32" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00001" x="1946" y="3457" rotated="true" width="480" height="474" frameX="-242" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00002" x="3407" y="2423" width="474" height="478" frameX="-242" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00003" x="2983" y="1946" rotated="true" width="478" height="475" frameX="-242" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00004" x="2912" y="3453" rotated="true" width="477" height="476" frameX="-242" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00005" x="2926" y="2973" rotated="true" width="480" height="478" frameX="-241" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00006" x="2019" y="977" width="486" height="486" frameX="-237" frameY="-27" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00007" x="1519" y="1" width="498" height="498" frameX="-231" frameY="-21" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00008" x="510" y="512" width="506" height="506" frameX="-227" frameY="-17" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00009" x="1019" y="1" width="498" height="498" frameX="-231" frameY="-21" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00010" x="1472" y="2009" width="483" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00011" x="2507" y="973" width="484" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00012" x="2507" y="487" width="484" height="484" frameX="-238" frameY="-28" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00013" x="1464" y="2497" width="482" height="482" frameX="-239" frameY="-29" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00014" x="1" y="2988" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-up00015" x="962" y="2983" width="480" height="480" frameX="-240" frameY="-30" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-idle00048" x="3463" y="1932" width="470" height="477" frameX="-245" frameY="-32" frameWidth="960" frameHeight="540"/>
+
+    <SubTexture name="ncshouse-right00000" x="984" y="2497" rotated="true" width="478" height="484" frameX="-238" frameY="-34" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00001" x="2499" y="1946" width="482" height="477" frameX="-239" frameY="-34" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00002" x="483" y="2503" rotated="true" width="477" height="483" frameX="-238" frameY="-35" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00003" x="2443" y="2973" width="481" height="476" frameX="-239" frameY="-35" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00004" x="2430" y="3451" width="480" height="475" frameX="-239" frameY="-36" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00005" x="483" y="2988" rotated="true" width="476" height="480" frameX="-238" frameY="-36" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00006" x="2498" y="1465" width="485" height="479" frameX="-236" frameY="-35" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00007" x="2012" y="1513" rotated="true" width="484" height="487" frameX="-235" frameY="-31" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00008" x="1518" y="1017" rotated="true" width="493" height="494" frameX="-232" frameY="-25" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00009" x="1018" y="512" width="503" height="503" frameX="-228" frameY="-19" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00010" x="1" y="510" width="507" height="508" frameX="-226" frameY="-16" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00011" x="1518" y="1513" width="492" height="494" frameX="-234" frameY="-23" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00012" x="2985" y="1459" rotated="true" width="478" height="471" frameX="-244" frameY="-32" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00013" x="961" y="3465" rotated="true" width="478" height="469" frameX="-246" frameY="-32" frameWidth="960" frameHeight="540"/>
+    <SubTexture name="ncshouse-right00014" x="1444" y="3463" rotated="true" width="479" height="471" frameX="-245" frameY="-31" frameWidth="960" frameHeight="540"/>
+    
+
+</TextureAtlas>
